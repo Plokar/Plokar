@@ -8,7 +8,7 @@ Hello, I am a student at the Secondary Technical School of Electrical Engineerin
 ![Stats](https://readme-stats-swart-kappa.vercel.app/api?username=Plokar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Plokar&theme=dark&hide_border=false)
 ![Top Langs](https://readme-stats-swart-kappa.vercel.app/api/top-langs/?username=Plokar&theme=dark&hide_border=false&layout=compact&count_private=true)
-
+s
 
 
 ---
