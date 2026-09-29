@@ -65,46 +65,6 @@ Currently I'm working across:
 
 ---
 
-## `// current mission`
-
-```yaml
-status: "building"
-
-focus:
-  - artificial intelligence
-  - robotics
-  - embedded systems
-  - developer tooling
-  - autonomous systems
-
-interests:
-  - LLM agents
-  - RAG
-  - knowledge graphs
-  - edge AI
-  - computer vision
-  - electronics
-  - control systems
-
-philosophy:
-  - build
-  - break
-  - understand
-  - rebuild
-  - share
-
-preferred_environment:
-  os: Linux
-  terminal: yes
-  hardware: "if it has a UART, I'm interested"
-
-long_term_goal:
-  "build technology that connects the physical and digital worlds"
-```
-
-
----
-
 # `tech stack`
 
 <div align="center">
