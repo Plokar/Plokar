@@ -1,17 +1,277 @@
-# 💫 About Me:
-Hello, I am a student at the Secondary Technical School of Electrical Engineering in Pilsen, specializing in IoT.<br>I'm primarily involved in developing web applications using Python and Docker. <br>However, I am also proficient in programming various microcontrollers in both C and MicroPython. <br>Additionally, I have experience working with LLMs, machine learning, neural networks, and integrating modules such as RAG, KG‑LLM and MCP. <br>I enjoy inventing, modeling, and wiring electronic devices as well.
+<div align="center">
 
+# `Sebastian Borik`
 
-# 💻 Tech Stack:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-# 📊 GitHub Stats:
-![Stats](https://readme-stats-swart-kappa.vercel.app/api?username=Plokar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Plokar&theme=dark&hide_border=false)
-![Top Langs](https://readme-stats-swart-kappa.vercel.app/api/top-langs/?username=Plokar&theme=dark&hide_border=false&layout=compact&count_private=true)
+### `building things where hardware meets software meets intelligence`
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=IoT+%2F+Embedded+Engineer;Full-Stack+Developer;AI+%2F+ML+Engineer;Robotics+%2F+Electronics+Enthusiast;Building+systems%2C+not+just+apps." />
+
+<br>
+
+<a href="https://github.com/Plokar">
+  <img src="https://img.shields.io/badge/GitHub-Plokar-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/sebasti%C3%A1n-bo%C5%99%C3%ADk/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sebasti%C3%A1n%20Bo%C5%99%C3%ADk-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/Plokar">
+  <img src="https://komarev.com/ghpvc/?username=Plokar&style=for-the-badge&color=58A6FF" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=BUILDING%20AT%20THE%20EDGE&fontSize=34&fontColor=58A6FF&fontAlignY=45&desc=hardware%20%C2%B7%20software%20%C2%B7%20intelligence&descSize=15&descAlignY=70&animation=fadeIn" />
+
+</div>
+
+<p align="center">
+  <sub>
+    I like building systems that cross the boundary between the physical and digital world.
+  </sub>
+</p>
+
+---
+
+## `> whoami`
+
+I'm **Sebastián**, an IoT & embedded-systems student from **Pilsen, Czechia**, interested in the intersection of **electronics, software, artificial intelligence and robotics**.
+
+I like going all the way down the stack.
+
+Sometimes that means writing firmware for a microcontroller.
+
+Sometimes it means designing an API.
+
+Sometimes it means integrating an AI system.
+
+And sometimes it means soldering something together at 2 AM just to see if it works.
+
+> **My favorite projects are the ones where the boundary between hardware and software disappears.**
+
+Currently I'm working across:
+
+* 🧠 **AI / ML** — LLMs, RAG, KG-LLM, MCP, neural networks
+* ⚙️ **Embedded systems** — C, C++, Rust, MicroPython, microcontrollers
+* 🌐 **Full-stack development** — React, Next.js, TypeScript
+* 🐍 **Backend engineering** — Python, Django, FastAPI, Flask
+* 🤖 **Robotics** — autonomous systems, telemetry, control software
+* 🔌 **Electronics** — sensors, MCUs, prototyping & hardware integration
+* 🛰️ **Autonomous systems** — edge computing, MAVLink, telemetry
+* ☁️ **Infrastructure** — Docker, Linux, CI/CD & cloud systems
+
+---
+
+## `// current mission`
+
+```yaml
+status: "building"
+
+focus:
+  - artificial intelligence
+  - robotics
+  - embedded systems
+  - developer tooling
+  - autonomous systems
+
+interests:
+  - LLM agents
+  - RAG
+  - knowledge graphs
+  - edge AI
+  - computer vision
+  - electronics
+  - control systems
+
+philosophy:
+  - build
+  - break
+  - understand
+  - rebuild
+  - share
+
+preferred_environment:
+  os: Linux
+  terminal: yes
+  hardware: "if it has a UART, I'm interested"
+
+long_term_goal:
+  "build technology that connects the physical and digital worlds"
+```
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Plokar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# `tech stack`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,cs,typescript,javascript,dart,bash&perline=9" />
+
+<br>
+
+---
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+
+<br>
+
+`LLMs` · `RAG` · `KG-LLM` · `MCP` · `Embeddings` · `Computer Vision`
+
+---
+
+### Backend / Web
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nextjs,nodejs,postgres,mongodb,redis&perline=9" />
+
+---
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,aws,cloudflare&perline=8" />
+
+---
+
+### Hardware
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" />
+
+<br>
+
+`ESP32` · `AVR` · `STM32` · `MQTT` · `MAVLink` 
+
+---
+
+### Engineering / Design
+
+<img src="https://skillicons.dev/icons?i=blender,figma&perline=8" />
+
+<br>
+
+`KiCad` · `Fusion 360` · `3D Printing` · `Embedded Systems` · `PCB Design`
+
+</div>
+
+---
+
+# `github.exe --stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Plokar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plokar&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Plokar&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# `selected_repositories`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Chat_bot_RAG
+
+A Flask-based RAG system capable of working with **PDF documents and web pages**, using LLM inference and custom retrieval logic.
+
+</td>
+
+<td width="50%">
+
+### 🌊 VIRIDIS_Controller
+
+Control software for the VIRIDIS submarine including **real-time telemetry, video streaming and mission logging**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏥 HackJakBrno
+
+A comprehensive operating-room management system focused on **real-time monitoring, costs and equipment lifecycle**.
+
+</td>
+
+<td width="50%">
+
+### 🧪 Experimental Projects
+
+A collection of prototypes where I test ideas before turning them into something bigger.
+
+</td>
+</tr>
+</table>
+
+---
+
+# `engineering_principles`
+
+```diff
++ Understand the system before optimizing it.
++ Prefer simple architectures over unnecessary complexity.
++ Build things that can actually be used.
++ Automate repetitive work.
++ Document what others need to reproduce.
++ Open-source whenever possible.
++ Learn by making.
+```
+
+---
+
+# `currently_learning`
+
+* 🧠 Advanced AI agent architectures
+* 🔗 Knowledge graphs & graph-based reasoning
+* 🤖 Autonomous robotics
+* ⚡ Advanced embedded systems
+* 🦀 Rust for systems & embedded development
+* 🛰️ Distributed / edge systems
+* 🧬 Neural simulation
+* 🏗️ Scalable system architecture
+
+---
+
+# `outside_the_terminal`
+
+When I'm not writing code, you'll probably find me:
+
+🔧 building electronics
+🤖 working on robots
+🚁 experimenting with drones
+🖨️ 3D printing something that probably didn't need to be 3D printed
+🎨 modeling things in Blender / Fusion 360
+🧪 experimenting with another questionable prototype
+🌍 traveling and looking for interesting technology
+
+---
+
+<div align="center">
+
+<br>
+
+### `make → break → learn → repeat`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=120&section=footer"/>
+
+</div>
